@@ -1,5 +1,5 @@
 # This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
+7# They are provided by a third-party and are governed by
 # separate terms of service, privacy policy, and support
 # documentation.
 #
@@ -23,6 +23,8 @@
 #
 # If you have any questions, please contact us at mayhem4api@forallsecure.com
 
+
+on:
   push:
     branches: [ "main" ]
   pull_request:
